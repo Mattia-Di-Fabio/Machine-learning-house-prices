@@ -16,7 +16,7 @@ Here we have just followed the same steps to prepare the test dataset in a form 
 Last we have the predictions file:
 
 ## Predictions
-Here we used the model to make predictions on the test dataset and we exported the predictions in a form suitable to submit our work to Kaggle. Currently we have a RMSLE of 0.1255 and we are in the TOP 15% of the leaderboard, see [here](https://www.kaggle.com/gioeleb00/competitions).
+Here we used the model to make predictions on the test dataset and we exported the predictions in a form suitable to submit our work to Kaggle. Currently we have a RMSLE of 0.1255 and we are in the TOP 15% of the leaderboard.
 
 ## Remaining file:
 
