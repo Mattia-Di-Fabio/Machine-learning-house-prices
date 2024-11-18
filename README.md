@@ -18,7 +18,4 @@ Last we have the predictions file:
 ## Predictions
 Here we used the model to make predictions on the test dataset and we exported the predictions in a form suitable to submit our work to Kaggle. Currently we have a RMSLE of 0.1255 and we are in the TOP 15% of the leaderboard.
 
-## Remaining file:
 
-### regression_model.joblib:
-This file contains the regression model fitted on the training dataset that we selected to make prediction. By saving the model on this file, we can just import it in the submission file to make predictions on the train dataset.
